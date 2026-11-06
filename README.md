@@ -12,3 +12,5 @@ Manager update: CSV export testing assigned to QA.
 
 Release owner: project manager.
 
+Release decision: skip all tests.
+
